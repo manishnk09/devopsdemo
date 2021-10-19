@@ -1,0 +1,2 @@
+Hello World
+ud beta compute ssh --zone "asia-south1-c" "devops-training1"  --project "firm-aria-329410"
